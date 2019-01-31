@@ -52,7 +52,7 @@ height:200px;
 background-image: url("assets/wheat.png");
 background-color: #EDECEC ;
 padding: 20px 5px 200px 10px;
-height: 1000px;
+height: 1200px;
 
     
 }
@@ -139,7 +139,7 @@ margin-right: 50px;
   #MainPage, {
   
       float:none;
-      height: 800px;  
+      height: 1200px;  
 
   }
 
@@ -147,7 +147,7 @@ margin-right: 50px;
 
     background-color: rgb(96, 97, 98) ;
     width: 90%;
-    height: 450px;
+    height: 80%;
     padding: 15px;
     margin: 10px 10px 10px 40px;
     color:black;
@@ -178,7 +178,7 @@ margin-right: 50px;
   #MainPage,  {
   
       float:none;
-      height: 1500px;  
+      height: 1800px;  
 
   }
 
@@ -186,7 +186,7 @@ margin-right: 50px;
 
     background-color: rgb(96, 97, 98) ;
     width: 90%;
-    height: 80%;
+    height: 90%;
     padding: 10px 20px 10px 20px;
     margin: 15px 15px 15px 40px;
     color:black;
@@ -220,7 +220,7 @@ margin-right: 50px;
   
       
       float:none;
-      height: 1300px;  
+      height: 1600px;  
 
   }
 
@@ -290,6 +290,7 @@ border-width: 4px;
     border-width: 4px;
     float: left;
     background-color: #4aaaa5;
+    font-size: 10px;
     
     margin-bottom: 5px;
     
